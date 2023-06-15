@@ -8,4 +8,4 @@ Nesse exercício precisávamos resolver o seguinte exercicio:
 
 
 <h3>O resultado foi o seguinte</h3>
-![image](https://github.com/raybuCode/desafio-4---Mentoria-Em-Testes-de-Software/assets/4932921/ffdea0ba-3640-4962-a16e-5d9eccdda23c)
+![image](https://github.com/raybuCode/desafio-4---Mentoria-Em-Testes-de-Software/assets/4932921/dce234f1-d3c7-46d7-b28e-99664274b645)
