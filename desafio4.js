@@ -14,7 +14,7 @@ function criarListaPessoas() {
     addPessoa('Pedro', 12, 'pedroo@gmail.com');
     addPessoa('Luzia', 17, 'lulu@gmail.com');
     addPessoa('Jessica', 9, 'jessica@gmail.com');
-    addPessoa('Joao', 2, 'Não tem email');
+    addPessoa('Joao', 21, 'jojo@gmail.com');
     return listaPessoas;
 }
 // Chamar a função para criar a lista de pessoas
