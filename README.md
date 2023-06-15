@@ -10,3 +10,4 @@ Repositório criado para solução de um desafio da mentoria do Julio de Lima, T
 <h3>O resultado foi o seguinte</h3>
 
 
+![resultado-desafio4](https://github.com/raybuCode/desafio-4---Mentoria-Em-Testes-de-Software/assets/4932921/916323f8-2cdc-4367-86cc-4353f0b01259)
