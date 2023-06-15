@@ -1,7 +1,7 @@
 # desafio-4---Mentoria-Em-Testes-de-Software
 Repositório criado para solução de um desafio da mentoria do Julio de Lima, Testes de Software.
 
-<h3>Nesse exercício precisávamos resolver o seguinte exercicio:</h3>
+<h3>Nesse exercício precisávamos resolver o seguinte:</h3>
 
 ![desafio4](https://github.com/raybuCode/desafio-4---Mentoria-Em-Testes-de-Software/assets/4932921/88f73b25-4939-46c8-b543-d55fcf6b413d)
 
